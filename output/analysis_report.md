@@ -1,8 +1,8 @@
 # PDB Ligand Screening Analysis Report
 
-**Generated:** Mon Dec  8 19:01:07 UTC 2025
-**Workflow Run:** 55
-**Commit:** 9626651c2713932b6852272ba137031e19e177e8
+**Generated:** Sun Feb  8 16:24:09 UTC 2026
+**Workflow Run:** 1
+**Commit:** 23a74c00332a88e4c849c060e25b230866d19c81
 
 ## Summary
 - **Total Processed:** processed
@@ -10,7 +10,7 @@
 - **Output File:** output/ssc_screening_results.csv
 
 ## Input Files
-- Input CSV: input/QC run molecules.csv
+- Input CSV: input/input_chemicals.csv
 - PDB Database: pdb_ligands.csv
 
 ## Results
