@@ -1,0 +1,9 @@
+Plant,Chemical Name,Molecular Structure,Molecule Category
+Cannabis sativa,delta9-Tetrahydrocannabinolic acid,CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1C(=O)O)O,Cannabinoid
+Cannabis sativa,9(R)-Hexahydrocannabinolic Acid,CC1(C)[C@@]2([H])[C@](C[C@H](C)CC2)([H])C3=C(C=C(CCCCC)C(C(O)=O)=C3O)O1,Cannabinoid
+Cannabis sativa,9(S)-Hexahydrocannabinolic Acid,CC1(C)[C@@]2([H])[C@](C[C@@H](C)CC2)([H])C3=C(C=C(CCCCC)C(C(O)=O)=C3O)O1,Cannabinoid
+Cannabis sativa,iso-Hexahydrocannabinol,C[C@@]12C[C@H]([C@H](C(C)C)CC2)C3=C(C=C(CCCCC)C=C3O)O1,Cannabinoid
+Cannabis sativa,9(S)-Hexahydrocannabinol,CC1(C)[C@@]2([H])[C@](C[C@@H](C)CC2)([H])C3=C(C=C(CCCCC)C=C3O)O1,Cannabinoid
+Cannabis sativa,9(R)-Hexahydrocannabinol,CC1(C)[C@@]2([H])[C@](C[C@H](C)CC2)([H])C3=C(C=C(CCCCC)C=C3O)O1,Cannabinoid
+Cannabis sativa,THC,CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O,Cannabinoid
+Cannabis sativa,CBD,CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O,Cannabinoid

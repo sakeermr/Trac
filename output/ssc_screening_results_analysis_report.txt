@@ -1,0 +1,251 @@
+================================================================================
+PDB LIGAND SCREENING ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-24 18:01:54
+
+PROCESSING STATISTICS:
+----------------------------------------
+Total PDB records processed: 680,081
+Valid PDB fingerprints: 655,499
+Input chemicals processed: 8
+Valid input fingerprints: 8
+Total similarity comparisons: 5,243,992
+Chemicals with matches found: 8
+Total result records: 80
+Errors encountered: 0
+
+SIMILARITY SCORE STATISTICS:
+----------------------------------------
+Mean similarity: 0.5785
+Median similarity: 0.5000
+Max similarity: 1.0000
+Min similarity: 0.3333
+Standard deviation: 0.2350
+
+DETAILED MOLECULAR ANALYSIS:
+================================================================================
+
+MOLECULE: delta9-Tetrahydrocannabinolic acid
+Plant: Cannabis sativa
+SMILES: CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1C(=O)O)O
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    3LS4     0.6393     Mus musculus         Yes          rcsb_success   
+2    6MP4     0.6393     Homo sapiens         Yes          rcsb_success   
+3    7P4J     0.6393     Rattus norvegicus    Yes          rcsb_success   
+4    8SP8     0.5645     Homo sapiens         Yes          rcsb_success   
+5    8V6L     0.5645     Homo sapiens         Yes          rcsb_success   
+6    8V6M     0.5645     Homo sapiens         Yes          rcsb_success   
+7    6E6K     0.4058     Homo sapiens         Yes          rcsb_success   
+8    6E5L     0.4058     Homo sapiens         Yes          rcsb_success   
+9    6E5W     0.4058     Homo sapiens         Yes          rcsb_success   
+10   7P4O     0.3944     Rattus norvegicus    Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.5223
+Max Tanimoto: 0.6393
+Min Tanimoto: 0.3944
+Std Deviation: 0.1072
+
+================================================================================
+
+MOLECULE: 9(R)-Hexahydrocannabinolic Acid
+Plant: Cannabis sativa
+SMILES: CC1(C)[C@@]2([H])[C@](C[C@H](C)CC2)([H])C3=C(C=C(CCCCC)C(C(O)=O)=C3O)O1
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    7P4O     0.6333     Rattus norvegicus    Yes          rcsb_success   
+2    3LS4     0.3944     Mus musculus         Yes          rcsb_success   
+3    6MP4     0.3944     Homo sapiens         Yes          rcsb_success   
+4    7P4J     0.3944     Rattus norvegicus    Yes          rcsb_success   
+5    2OM9     0.3896     Homo sapiens         Yes          rcsb_success   
+6    4A4V     0.3571     HOMO SAPIENS         Yes          rcsb_success   
+7    6KPC     0.3333     Enterobacteria phage Yes          rcsb_success   
+8    8SP8     0.3333     Homo sapiens         Yes          rcsb_success   
+9    8V6L     0.3333     Homo sapiens         Yes          rcsb_success   
+10   6KPF     0.3333     Homo sapiens         Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.3896
+Max Tanimoto: 0.6333
+Min Tanimoto: 0.3333
+Std Deviation: 0.0902
+
+================================================================================
+
+MOLECULE: 9(S)-Hexahydrocannabinolic Acid
+Plant: Cannabis sativa
+SMILES: CC1(C)[C@@]2([H])[C@](C[C@@H](C)CC2)([H])C3=C(C=C(CCCCC)C(C(O)=O)=C3O)O1
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    7P4O     0.6333     Rattus norvegicus    Yes          rcsb_success   
+2    3LS4     0.3944     Mus musculus         Yes          rcsb_success   
+3    6MP4     0.3944     Homo sapiens         Yes          rcsb_success   
+4    7P4J     0.3944     Rattus norvegicus    Yes          rcsb_success   
+5    2OM9     0.3896     Homo sapiens         Yes          rcsb_success   
+6    4A4V     0.3571     HOMO SAPIENS         Yes          rcsb_success   
+7    6KPC     0.3333     Enterobacteria phage Yes          rcsb_success   
+8    8SP8     0.3333     Homo sapiens         Yes          rcsb_success   
+9    8V6L     0.3333     Homo sapiens         Yes          rcsb_success   
+10   6KPF     0.3333     Homo sapiens         Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.3896
+Max Tanimoto: 0.6333
+Min Tanimoto: 0.3333
+Std Deviation: 0.0902
+
+================================================================================
+
+MOLECULE: iso-Hexahydrocannabinol
+Plant: Cannabis sativa
+SMILES: C[C@@]12C[C@H]([C@H](C(C)C)CC2)C3=C(C=C(CCCCC)C=C3O)O1
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    7P4O     0.5410     Rattus norvegicus    Yes          rcsb_success   
+2    3LS4     0.4844     Mus musculus         Yes          rcsb_success   
+3    6MP4     0.4844     Homo sapiens         Yes          rcsb_success   
+4    7P4J     0.4844     Rattus norvegicus    Yes          rcsb_success   
+5    8SP8     0.3939     Homo sapiens         Yes          rcsb_success   
+6    8V6L     0.3939     Homo sapiens         Yes          rcsb_success   
+7    8V6M     0.3939     Homo sapiens         Yes          rcsb_success   
+8    8SLX     0.3692     Rattus norvegicus    Yes          rcsb_success   
+9    8J02     0.3692     Homo sapiens         Yes          rcsb_success   
+10   8SLY     0.3692     Rattus norvegicus    Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.4284
+Max Tanimoto: 0.5410
+Min Tanimoto: 0.3692
+Std Deviation: 0.0634
+
+================================================================================
+
+MOLECULE: 9(S)-Hexahydrocannabinol
+Plant: Cannabis sativa
+SMILES: CC1(C)[C@@]2([H])[C@](C[C@@H](C)CC2)([H])C3=C(C=C(CCCCC)C=C3O)O1
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    7P4O     1.0000     Rattus norvegicus    Yes          rcsb_success   
+2    3LS4     0.6034     Mus musculus         Yes          rcsb_success   
+3    6MP4     0.6034     Homo sapiens         Yes          rcsb_success   
+4    7P4J     0.6034     Rattus norvegicus    Yes          rcsb_success   
+5    8SP8     0.5000     Homo sapiens         Yes          rcsb_success   
+6    8V6L     0.5000     Homo sapiens         Yes          rcsb_success   
+7    8V6M     0.5000     Homo sapiens         Yes          rcsb_success   
+8    6KPC     0.4167     Enterobacteria phage Yes          rcsb_success   
+9    6KPF     0.4167     Homo sapiens         Yes          rcsb_success   
+10   2OM9     0.4028     Homo sapiens         Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.5546
+Max Tanimoto: 1.0000
+Min Tanimoto: 0.4028
+Std Deviation: 0.1750
+
+================================================================================
+
+MOLECULE: 9(R)-Hexahydrocannabinol
+Plant: Cannabis sativa
+SMILES: CC1(C)[C@@]2([H])[C@](C[C@H](C)CC2)([H])C3=C(C=C(CCCCC)C=C3O)O1
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    7P4O     1.0000     Rattus norvegicus    Yes          rcsb_success   
+2    3LS4     0.6034     Mus musculus         Yes          rcsb_success   
+3    6MP4     0.6034     Homo sapiens         Yes          rcsb_success   
+4    7P4J     0.6034     Rattus norvegicus    Yes          rcsb_success   
+5    8SP8     0.5000     Homo sapiens         Yes          rcsb_success   
+6    8V6L     0.5000     Homo sapiens         Yes          rcsb_success   
+7    8V6M     0.5000     Homo sapiens         Yes          rcsb_success   
+8    6KPC     0.4167     Enterobacteria phage Yes          rcsb_success   
+9    6KPF     0.4167     Homo sapiens         Yes          rcsb_success   
+10   2OM9     0.4028     Homo sapiens         Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.5546
+Max Tanimoto: 1.0000
+Min Tanimoto: 0.4028
+Std Deviation: 0.1750
+
+================================================================================
+
+MOLECULE: THC
+Plant: Cannabis sativa
+SMILES: CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    3LS4     1.0000     Mus musculus         Yes          rcsb_success   
+2    6MP4     1.0000     Homo sapiens         Yes          rcsb_success   
+3    7P4J     1.0000     Rattus norvegicus    Yes          rcsb_success   
+4    8SP8     0.8571     Homo sapiens         Yes          rcsb_success   
+5    8V6L     0.8571     Homo sapiens         Yes          rcsb_success   
+6    8V6M     0.8571     Homo sapiens         Yes          rcsb_success   
+7    7P4O     0.6034     Rattus norvegicus    Yes          rcsb_success   
+8    8SLX     0.5714     Rattus norvegicus    Yes          rcsb_success   
+9    8J02     0.5714     Homo sapiens         Yes          rcsb_success   
+10   8SLY     0.5714     Rattus norvegicus    Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 0.7889
+Max Tanimoto: 1.0000
+Min Tanimoto: 0.5714
+Std Deviation: 0.1897
+
+================================================================================
+
+MOLECULE: CBD
+Plant: Cannabis sativa
+SMILES: CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O
+Category: Cannabinoid
+Total matches found: 10
+------------------------------------------------------------
+TOP 20 PDB TARGETS WITH TANIMOTO VALUES AND ORGANISM INFO:
+Rank PDB_ID   Tanimoto   Organism             H/M/R        Status         
+--------------------------------------------------------------------------------
+1    8SLX     1.0000     Rattus norvegicus    Yes          rcsb_success   
+2    8J02     1.0000     Homo sapiens         Yes          rcsb_success   
+3    8SLY     1.0000     Rattus norvegicus    Yes          rcsb_success   
+4    8J03     1.0000     Homo sapiens         Yes          rcsb_success   
+5    7T37     1.0000     Rattus norvegicus    Yes          rcsb_success   
+6    6U88     1.0000     Rattus norvegicus    Yes          rcsb_success   
+7    8J00     1.0000     Homo sapiens         Yes          rcsb_success   
+8    8G1A     1.0000     Homo sapiens         Yes          rcsb_success   
+9    6U8A     1.0000     Rattus norvegicus    Yes          rcsb_success   
+10   8J01     1.0000     Homo sapiens         Yes          rcsb_success   
+
+MOLECULE STATISTICS:
+Mean Tanimoto: 1.0000
+Max Tanimoto: 1.0000
+Min Tanimoto: 1.0000
+Std Deviation: 0.0000
+
+================================================================================
+
